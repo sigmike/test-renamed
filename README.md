@@ -1,2 +1,2 @@
-test-rename
-===========
+test-renamed
+============
